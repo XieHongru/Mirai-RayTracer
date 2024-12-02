@@ -9,9 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 66999888c5a87b14a805fd7d5d56f9ee, type: 3}
-  m_Name: Mirai
+  m_Script: {fileID: 11500000, guid: fa64072caff52074bb82cbca238bbe1a, type: 3}
+  m_Name: MiraiRayTracer
   m_EditorClassIdentifier: 
   renderType: 0
-  rayGeneratorShader: {fileID: 0}
-  envTex: {fileID: 0}
+  rayGeneratorShader: {fileID: 4807578003741378534, guid: 549f9a31c1433d14ba4c90c1cc65f316,
+    type: 3}
+  envTex: {fileID: 8900000, guid: 811a4b4f77c3f6f4c95e04ef087be4a6, type: 3}
